@@ -46,6 +46,5 @@ public class PrincipalComListas {
         System.out.println(lista);
         lista.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
         System.out.println(lista);
-
     }
 }
