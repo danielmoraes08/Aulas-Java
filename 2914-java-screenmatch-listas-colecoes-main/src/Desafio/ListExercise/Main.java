@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.ListExercise;
 
 import java.util.Collections;
 import java.util.Scanner;

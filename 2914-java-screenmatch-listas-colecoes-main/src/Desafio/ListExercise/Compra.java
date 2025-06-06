@@ -1,4 +1,4 @@
-package Desafio;
+package Desafio.ListExercise;
 
 public class Compra implements Comparable<Compra>{
     private String descricao;
